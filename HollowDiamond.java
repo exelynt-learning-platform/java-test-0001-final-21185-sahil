@@ -1,3 +1,4 @@
+//code01
 public class HollowDiamond {
     public static void main(String[] args) {
         int n = 5; 
