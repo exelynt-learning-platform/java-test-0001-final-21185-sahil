@@ -1,4 +1,4 @@
-public class HollowDiamond {
+public class HollowDiamond  {
     public static void main(String[] args) {
         int n = 5; 
 
@@ -9,6 +9,7 @@ public class HollowDiamond {
                 System.out.print(" ");
             }
             
+
             for (int k = 1; k <= (2 * i - 1); k++) {
                 if (k == 1 || k == (2 * i - 1)) {
                     System.out.print("*");
